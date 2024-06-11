@@ -1,1 +1,1 @@
-This is my reposirty for my Back end core week 1 Day 2. 
+This is my repository for my Backend Core Week 1 Day 2. 
